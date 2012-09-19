@@ -81,13 +81,13 @@ around and deny their success.
 ### We are losing our way.
 
 It is equally as difficult to exist in this new reality and not feel a sense of
-entitlement to our place in it. Absent the symptoms which signify a problem,
+entitlement to our place in it. Absent the symptoms to signify a problem,
 the prescription which holds that very problem at bay can be explained away as
 unnecessary and anachronistic. In actuality, nothing has changed. We are all
 still desperately in need of the makers' medicine for our continued survival.
 
 We are beginning to lose our way. Convinced that our place in society is
-permanent, we're beginning to build walls around ourselves. We fortify our
+permanent, we're starting to build walls around ourselves. We fortify our
 position and reap the benefits of this current season of plenty. We *must not*
 continue down this path. We must not abandon the work of cooperation, of
 inspiring each other, of collaborating, of help to those fully incapable of

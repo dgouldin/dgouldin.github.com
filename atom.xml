@@ -4,7 +4,7 @@
   <title><![CDATA[Spare Cycles]]></title>
   <link href="http://dgouldin.github.com/atom.xml" rel="self"/>
   <link href="http://dgouldin.github.com/"/>
-  <updated>2012-09-18T23:26:16-07:00</updated>
+  <updated>2012-09-18T23:43:20-07:00</updated>
   <id>http://dgouldin.github.com/</id>
   <author>
     <name><![CDATA[David Gouldin]]></name>
@@ -18,7 +18,13 @@
     <link href="http://dgouldin.github.com/blog/2012/09/18/your-job-is-not-sexy/"/>
     <updated>2012-09-18T15:49:00-07:00</updated>
     <id>http://dgouldin.github.com/blog/2012/09/18/your-job-is-not-sexy</id>
-    <content type="html"><![CDATA[<h3>We are makers.</h3>
+    <content type="html"><![CDATA[<p><em>This post came about as a result of what I peceive as a changing tide
+in the way people in Silicon Valley and the broader maker community
+treat each other. In it, I lay out my personal and professional
+philosophy as a member of this community and as one concerned for its
+future.</em></p>
+
+<h3>We are makers.</h3>
 
 <p>I am a maker. It&#8217;s important first and foremost to understand where this comes
 from: not from ambition, but from compulsion. Making is the only way I&#8217;ve found
@@ -93,13 +99,13 @@ around and deny their success.</p>
 <h3>We are losing our way.</h3>
 
 <p>It is equally as difficult to exist in this new reality and not feel a sense of
-entitlement to our place in it. Absent the symptoms which signify a problem,
+entitlement to our place in it. Absent the symptoms to signify a problem,
 the prescription which holds that very problem at bay can be explained away as
 unnecessary and anachronistic. In actuality, nothing has changed. We are all
 still desperately in need of the makers&#8217; medicine for our continued survival.</p>
 
 <p>We are beginning to lose our way. Convinced that our place in society is
-permanent, we&#8217;re beginning to build walls around ourselves. We fortify our
+permanent, we&#8217;re starting to build walls around ourselves. We fortify our
 position and reap the benefits of this current season of plenty. We <em>must not</em>
 continue down this path. We must not abandon the work of cooperation, of
 inspiring each other, of collaborating, of help to those fully incapable of

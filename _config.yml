@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://dgouldin.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Spare Cycles
+subtitle: Thoughts when I have them, none when I don't.
+author: David Gouldin
 simple_search: http://google.com/search
 description:
 
@@ -19,7 +19,7 @@ date_format: "ordinal"
 subscribe_rss: /atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
-email:
+email: david@gould.in
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -57,19 +57,19 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 #   3rd Party Settings    #
 # ----------------------- #
 
-# Github repositories
-github_user:
-github_repo_count: 0
-github_show_profile_link: true
-github_skip_forks: true
-
 # Twitter
-twitter_user:
+twitter_user: dgouldin
 twitter_tweet_count: 4
 twitter_show_replies: false
 twitter_follow_button: true
 twitter_show_follower_count: false
 twitter_tweet_button: true
+
+# Github repositories
+# github_user: dgouldin
+# github_repo_count: 0
+# github_show_profile_link: true
+# github_skip_forks: true
 
 # Google +1
 google_plus_one: false
@@ -89,8 +89,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: dgouldin
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:

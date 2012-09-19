@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: maker | Spare Cycles]]></title>
-  <link href="http://dgouldin.github.com/blog/categories/maker/atom.xml" rel="self"/>
-  <link href="http://dgouldin.github.com/"/>
-  <updated>2012-09-19T10:01:20-07:00</updated>
-  <id>http://dgouldin.github.com/</id>
+  <link href="http://d.gould.in/blog/categories/maker/atom.xml" rel="self"/>
+  <link href="http://d.gould.in/"/>
+  <updated>2012-09-19T10:14:53-07:00</updated>
+  <id>http://d.gould.in/</id>
   <author>
     <name><![CDATA[David Gouldin]]></name>
     <email><![CDATA[david@gould.in]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Your job is not sexy.]]></title>
-    <link href="http://dgouldin.github.com/blog/2012/09/18/your-job-is-not-sexy/"/>
+    <link href="http://d.gould.in/blog/2012/09/18/your-job-is-not-sexy/"/>
     <updated>2012-09-18T15:49:00-07:00</updated>
-    <id>http://dgouldin.github.com/blog/2012/09/18/your-job-is-not-sexy</id>
+    <id>http://d.gould.in/blog/2012/09/18/your-job-is-not-sexy</id>
     <content type="html"><![CDATA[<h3>We are makers.</h3>
 
 <p>I am a maker. It's important first and foremost to understand where this comes
